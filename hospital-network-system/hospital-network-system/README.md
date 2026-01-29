@@ -66,25 +66,25 @@ A comprehensive, production-ready hospital management system with multi-hospital
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                         Client Layer                        │
-│  (React SPA - Admin Dashboard, Doctor Portal, Patient App) │
+│  (React SPA - Admin Dashboard, Doctor Portal, Patient App)  │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                      API Gateway Layer                      │
-│         (Express.js - JWT Auth, RBAC Middleware)           │
+│         (Express.js - JWT Auth, RBAC Middleware)            │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                      Business Logic Layer                   │
-│        (Controllers - Patient, Appointment, Auth)          │
+│        (Controllers - Patient, Appointment, Auth)           │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                      Data Access Layer                      │
-│              (PostgreSQL - Relational Database)            │
+│              (PostgreSQL - Relational Database)             │
 │  Tables: hospitals, users, patients, appointments, records  │
 └─────────────────────────────────────────────────────────────┘
 ```
