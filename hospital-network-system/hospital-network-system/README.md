@@ -255,7 +255,7 @@ hospital-network-system/
 │   └── package.json
 ├── database/
 │   └── schema.sql                    # Database schema + seed data
-├── frontend/                          # (Optional - React app)
+├── frontend/                         # (Optional - React app)
 └── README.md
 ```
 
