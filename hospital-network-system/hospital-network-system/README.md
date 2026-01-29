@@ -330,9 +330,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Thien**
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Portfolio: [your-portfolio.com](https://itsthien.neocities.org/)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/itsthien/)
+- GitHub: [@yourusername](https://github.com/itsThien)
 
 ## 🙏 Acknowledgments
 
@@ -341,5 +341,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the open-source community for amazing tools and libraries
 
 ---
-
-**⭐ If you found this project helpful, please consider giving it a star!**
