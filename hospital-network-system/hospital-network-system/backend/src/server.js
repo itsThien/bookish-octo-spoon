@@ -19,13 +19,13 @@ const startServer = async () => {
       console.log(`
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║   🏥 Hospital Network Management System (HNMS)               ║
+║   Hospital Network Management System (HNMS)                   ║
 ║                                                               ║
-║   Server running on: http://localhost:${PORT}                    ║
-║   API Documentation: http://localhost:${PORT}/api/docs           ║
-║   Environment: ${process.env.NODE_ENV || 'development'}                              ║
+║   Server running on: http://localhost:${PORT}                 ║
+║   API Documentation: http://localhost:${PORT}/api/docs        ║
+║   Environment: ${process.env.NODE_ENV || 'development'}       ║
 ║                                                               ║
-║   Ready to accept requests! 🚀                               ║
+║   Ready to accept requests!                                   ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
       `);
