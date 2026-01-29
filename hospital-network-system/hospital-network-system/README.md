@@ -330,9 +330,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Thien**
-- Portfolio: [your-portfolio.com](https://itsthien.neocities.org/)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/itsthien/)
-- GitHub: [@yourusername](https://github.com/itsThien)
+- Portfolio: [itsthien.neocities.org](https://itsthien.neocities.org/)
+- LinkedIn: [linkedin.com/in/itsthien](https://www.linkedin.com/in/itsthien/)
+- GitHub: [@itsThien](https://github.com/itsThien)
 
 ## 🙏 Acknowledgments
 
